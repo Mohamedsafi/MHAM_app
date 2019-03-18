@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="" ?>
+<odoo>
+    <data>
+        <template id = "all_done_trx">
+
+            <t t-call ="report.container">
+                <t t-call="report.external_layout">
+                    <div class ="page">
+                        <div class="oe_structure"/>
+                        <div class="page-header"/>
+
+                    </div>
+                </t>
+
+
+
+
+            </t>
+
+
+
+
+        </template>
+
+
+
+
+    </data>
+
+
+
+
+
+</odoo>
